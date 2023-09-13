@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="3" failures="0" disabled="2" errors="0" time="22.585" timestamp="2023-09-08T14:38:38" name="AllTests">
+  <testsuite name="ObjectDetection" tests="3" failures="0" disabled="2" errors="0" time="22.585" timestamp="2023-09-08T14:38:38">
+    <testcase name="DISABLED_DetectDog" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T18:00:00" classname="ObjectDetection" />
+    <testcase name="DetectANYmal" status="run" result="completed" time="22.585" timestamp="2023-09-08T14:38:38" classname="ObjectDetection" />
+    <testcase name="DISABLED_DetectPerson" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T18:00:00" classname="ObjectDetection" />
+  </testsuite>
+</testsuites>

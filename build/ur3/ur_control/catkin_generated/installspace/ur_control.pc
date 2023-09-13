@@ -1,0 +1,8 @@
+prefix=/home/alan_tapia/ros_ws/install
+
+Name: ur_control
+Description: Description of ur_control
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

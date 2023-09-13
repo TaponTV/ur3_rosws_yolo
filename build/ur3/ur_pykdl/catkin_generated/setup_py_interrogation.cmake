@@ -1,0 +1,7 @@
+set(ur_pykdl_SETUP_PY_SETUP_MODULE "distutils.core")
+set(ur_pykdl_SETUP_PY_VERSION "0.1.0")
+set(ur_pykdl_SETUP_PY_SCRIPTS "")
+set(ur_pykdl_SETUP_PY_PACKAGES "ur_pykdl;ur_kdl;urdf_parser_py")
+set(ur_pykdl_SETUP_PY_PACKAGE_DIRS "src/ur_pykdl;src/ur_kdl;src/urdf_parser_py")
+set(ur_pykdl_SETUP_PY_MODULES "")
+set(ur_pykdl_SETUP_PY_MODULE_DIRS "")

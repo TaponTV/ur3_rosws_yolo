@@ -1,0 +1,8 @@
+prefix=/home/alan_tapia/ros_ws/install
+
+Name: ur3_gazebo
+Description: Description of ur3_gazebo
+Version: 0.1.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

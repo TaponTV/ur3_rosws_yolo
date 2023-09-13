@@ -1,0 +1,7 @@
+set(ur3_gazebo_SETUP_PY_SETUP_MODULE "distutils.core")
+set(ur3_gazebo_SETUP_PY_VERSION "0.1.2")
+set(ur3_gazebo_SETUP_PY_SCRIPTS "")
+set(ur3_gazebo_SETUP_PY_PACKAGES "ur_gazebo")
+set(ur3_gazebo_SETUP_PY_PACKAGE_DIRS "src/ur_gazebo")
+set(ur3_gazebo_SETUP_PY_MODULES "")
+set(ur3_gazebo_SETUP_PY_MODULE_DIRS "")

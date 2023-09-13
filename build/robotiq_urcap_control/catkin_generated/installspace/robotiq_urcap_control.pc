@@ -1,0 +1,8 @@
+prefix=/home/alan_tapia/ros_ws/install
+
+Name: robotiq_urcap_control
+Description: Description of robotiq_urcap_control
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
